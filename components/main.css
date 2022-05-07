@@ -25,7 +25,7 @@ body, html {
     display: flex;
     align-items: center;
     justify-content: center;
-    row-gap: 150px;
+    gap: 250px;
 
     background: linear-gradient(to left, #fd9d30, #f37335);
 }
