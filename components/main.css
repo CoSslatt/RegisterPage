@@ -104,13 +104,17 @@ body, html {
 }
 
 .input {
-    width: 200px;
+    width: 90%;
     height: 25px;
 
     margin-left: 25px;
     margin-top: 20px;
 
     border: none;
+}
+
+.input:focus {
+    outline: none;
 }
 
 .login__form .submit {
