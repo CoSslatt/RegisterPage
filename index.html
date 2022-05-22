@@ -1,35 +1,49 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+		<link
+			href="https://fonts.googleapis.com/icon?family=Material+Icons"
+			rel="stylesheet"
+		/>
 
-    <link rel="stylesheet" href="components/main.css">
-    <script defer src="components/main.js"></script>
+		<link rel="stylesheet" href="components/main.css" />
+		<script defer src="components/main.js"></script>
 
-    <title>Account</title>
+		<title>Account</title>
+	</head>
+	<body>
+		<div id="container">
+			<div class="website__content">
+				<span class="material-icons icon">rocket</span>
+				<h1>Join Us</h1>
+				<span class="about__us__text"
+					>Do you think about a job as a frontend developer?</span
+				>
+				<input class="about__us__btn" type="button" value="About us" />
+			</div>
 
-</head>
-<body>
+			<form class="login__form">
+				<h1>Login</h1>
+				<input type="text" name="username" class="input" placeholder="Name" />
+				<input
+					type="password"
+					name="password"
+					class="input"
+					placeholder="Password"
+				/>
+				<input type="submit" class="submit" value="Login" />
+			</form>
 
-    <div id="container">
-        <div class="website__content">
-            <span class="material-icons icon">rocket</span>
-            <h1>Join Us</h1>
-            <span class="about__us__text">Do you think about a job as a frontend developer?</span>
-            <input class="about__us__btn" type="button" value="About us">
-        </div>
-
-        <form class="login__form">
-            <h1>Login</h1>
-            <input type="text" name="username" class="input" placeholder="Name">
-            <input type="password" name="password" class="input" placeholder="Password">
-            <input type="submit" class="submit" value="Login">
-        </form>
-    </div>
-
-</body>
+			<div class="profile__content">
+				<div class="material-icons profile__logo">account_circle</div>
+				<div class="profile__disable">
+					<div class="user__id"></div>
+				</div>
+			</div>
+		</div>
+	</body>
 </html>
