@@ -168,6 +168,7 @@ html {
 	display: none;
 
 	color: var(--dark-text-clr);
+	font-weight: 900;
 }
 
 .profile__content__to__wrap {
