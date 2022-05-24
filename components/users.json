@@ -1,20 +1,20 @@
 [
 	{
 		"user_id": 0,
-		"name": "Maciek",
-		"surname": "Pięta",
-		"password": "1"
+		"name": "Kamil",
+		"surname": "Bannister",
+		"password": "pass"
 	},
 	{
 		"user_id": 1,
-		"name": "Robert",
-		"surname": "Kowalski",
-		"password": "2"
+		"name": "Tracey",
+		"surname": "Bush",
+		"password": "123"
 	},
 	{
 		"user_id": 2,
-		"name": "Agata",
-		"surname": "Pytkiewicz",
-		"password": "3"
+		"name": "Juan",
+		"surname": "Cole",
+		"password": "qwerty"
 	}
 ]
