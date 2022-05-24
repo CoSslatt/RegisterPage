@@ -14,6 +14,7 @@ profileIcon.addEventListener("click", (e) => {
 
 formSubmit.addEventListener("click", () => {
 	getUsers("components/users.json", (name, surname) => {
+		//
 		USER_ID_DIV.textContent = `${name} ${surname}`;
 	});
 });
