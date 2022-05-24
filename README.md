@@ -2,7 +2,7 @@
 
 ---
 
-#### It is login page but it would be register page at first
+#### It is login page but it was supposed to be a register page.
 
 ---
 
