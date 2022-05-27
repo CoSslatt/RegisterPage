@@ -7,23 +7,27 @@
 ---
 
 ### Working features:
+
 - There are 3 accounts that you can login to them.
 
 ---
 
 ### Technologies I used:
+
 - HTML
 - CSS
-- Javascript, Async JS
+- Javascript
 
 ---
 
 ### Status:
+
 - Done
 
 ---
 
 There are the accounts that you can login to:
+
 - Name: Kamil, password: pass
 - Name: Tracey, password: 123
 - Name: Juan, password: qwerty
