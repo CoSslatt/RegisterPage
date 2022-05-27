@@ -32,6 +32,6 @@ There are the accounts that you can login to:
 - Name: Tracey, password: 123
 - Name: Juan, password: qwerty
 
---
+---
 
 https://narcikss.github.io/RegisterPage/
