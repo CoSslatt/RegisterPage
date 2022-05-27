@@ -14,7 +14,7 @@
 ### Technologies I used:
 - HTML
 - CSS
-- Javascript, Async JS
+- Javascript
 
 ---
 
