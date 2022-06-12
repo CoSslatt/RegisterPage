@@ -34,4 +34,4 @@ There are the accounts that you can login to:
 
 ---
 
-https://narcikss.github.io/RegisterPage/
+https://cosslatt.github.io/RegisterPage/
